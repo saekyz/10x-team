@@ -1,5 +1,5 @@
 {
-  "name": "10x-Team",
+  "name": "10x-team",
   "version": "0.4.0",
   "description": "10x-Team Skills plugin for Claude Code for building real world application like you build with a team",
   "author":{
@@ -7,8 +7,8 @@
     "email":"mustafamustafa9891@gmail.com"
   },
  
-   "homepage": "https://github.com/Jaan-Mustafa/10x-Team",
-  "repository": "https://github.com/Jaan-Mustafa/10x-Team",
+   "homepage": "https://github.com/saekyz/10x-team",
+  "repository": "https://github.com/saekyz/10x-team",
   "license":"MIT",
   "keyword":[
     "skills","10x-team","product", "ai"
